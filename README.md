@@ -1,12 +1,13 @@
-# Wypożyczalnia video
-## Wymagania:
+# Video Rental Office
+University project. System supporting management of video rental office, that are already extinct. Built using Vue.js, Spring Boot and MySQL.
+## Prerequisites:
 - Java Development Kit 1.8
 - Maven
 - Node.js
 - NPM
 - NPM, Maven oraz JDK w PATH
-## Instrukcja uruchomienia:
-1. Wymagania wstępne:
+## Launch instructions:
+1. Prerequisites:
 #### Linux
 ```
 npm install -g @vue/cli
@@ -15,14 +16,14 @@ npm install -g @vue/cli
 ```
 npm install -g @vue/cli
 ```
-2. Uruchomienie w folderze głównym kolejno:
+2. Type in root folder:
 ```
 mvn clean build
 mvn --projects backend spring-boot:run
 cd frontend
 npm run serve
 ```
-3. Przejdź do adresu http://localhost:8080/ w przeglądarce.
-## Autorzy:
+3. Go to http://localhost:8080/ in your browser.
+## Authors:
 - Bartosz Żywicki
 - Tomasz Pućka
