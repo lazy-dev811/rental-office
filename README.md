@@ -1,6 +1,6 @@
 # Video Rental Offices
 
-University project. System supporting management of video rental offices. Built using Vue.js, Spring Boot and MySQL.
+University project for "Database Management Systems". System supporting management of video rental offices. Built using Vue.js, Spring Boot and MySQL.
 
 ## Authors:
 
