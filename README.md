@@ -1,24 +1,16 @@
-# Video Rental Office
-University project. System supporting management of video rental office (that have become already extinct). Built using Vue.js, Spring Boot and MySQL.
+# Video Rental Offices
+
+University project. System supporting management of video rental offices. Built using Vue.js, Spring Boot and MySQL.
+
 ## Authors:
+
 - Bartosz Żywicki - Spring Boot, MySQL
 - Tomasz Pućka - Vue.js, MySQL
-## Prerequisites:
-- Java Development Kit 1.8
-- Maven
-- Node.js
-- NPM
-- NPM, Maven oraz JDK in PATH
-## Launch instructions:
-1. Prerequisites:
-```
-npm install -g @vue/cli
-```
-2. Type in root folder:
-```
-mvn clean build
-mvn --projects backend spring-boot:run
-cd frontend
-npm run serve
-```
-3. Go to http://localhost:8080/ in your browser.
+
+## Screenshots
+
+<img src="./screenshot01.png" alt="screenshot">
+<img src="./screenshot02.png" alt="screenshot">
+<img src="./screenshot03.png" alt="screenshot">
+<img src="./screenshot04.png" alt="screenshot">
+<img src="./screenshot05.png" alt="screenshot">
